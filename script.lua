@@ -126,7 +126,7 @@ local hook_table = {
 }
 
 local constSub = {
-	{'https://raw.githubusercontent.com/violin%-suzutsuki/Linoria/main/Script.lua', 'https://raw.githubusercontent.com/yabujin/mewwo-hub/main/script.lua'},
+	{'https://raw.githubusercontent.com/violin%-suzutsuki/Linoria/main/Script.lua', 'https://raw.githubusercontent.com/qyopyy/348578934389/main/script.lua'},
 	{"rbxassetid://8245322894","rbxassetid://11335249384"},
 	{"rbxassetid://8507962307","rbxassetid://11341014730"},
 	{"\108\105\110\100\115\101\121\104\111\115\116", "blackhatmoded"},
